@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Reaster
 #### i'm a 42Paris student
-![i'm a 42Paris student]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reaster0&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats))
-
 i'm trying to learn how to do math at dumb rocks
 
 Skills: C / C++ / PYTHON
@@ -12,5 +10,4 @@ Skills: C / C++ / PYTHON
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Reaster0)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reaster0)](https://github.com/anuraghazra/github-readme-stats)
-
 
