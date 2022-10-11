@@ -4,7 +4,7 @@
 
 i'm trying to learn how to do math at dumb rocks
 
-Skills: C / C++ / PYTHON
+Skills: C / C++ / JS / TS /PYTHON
 
 - 🔭 I’m currently working on my 42 Cursus 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Reaster0)  
