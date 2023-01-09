@@ -8,5 +8,5 @@ Skills: C / C++ / JS / TS /PYTHON
 
 - 🔭 I’m currently working on my 42 Cursus 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Reaster0)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reaster0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reaster0&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
